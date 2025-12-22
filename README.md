@@ -169,6 +169,7 @@
   Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
 
 ## Virtual Machines
+- [Bithoven](https://github.com/ChrisCho-H/bithoven) - A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm).
   RISC-V virtual machine.
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm).
