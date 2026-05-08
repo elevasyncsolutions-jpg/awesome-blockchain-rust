@@ -110,7 +110,7 @@
   Sharded smart contract DeFi platform.
 - [RsNano](https://github.com/simpago/rsnano-node).
   A rust port of Nano: the eco-friendly & feeless digital currency
-- [Secret Network](https://github.com/SecretFoundation/docs).
+- [Secret Network](https://github.com/SecretFoundation/SecretNetwork).
   A privacy-first blockchain that uses Rust to enable "secret contracts", ensuring data is encrypted while being processed on-chain.
 - [Setheum](https://github.com/Setheum-Labs/Setheum).
   SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
